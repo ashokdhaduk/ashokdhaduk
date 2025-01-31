@@ -1,5 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ashok Dhaduk</h1>
+<h3 align="center">I’m a Full Stack Engineer with over 14 years of focused experience in web-based projects.</h3>
 
+![](https://komarev.com/ghpvc/?username=ashokdhaduk)
+
+🔭 I’m currently working as a freelancer & looking for better opportunities.
+
+💬 Ask me about **Web Development, WordPress, Laravel, Front-end JS Frameworks and Open Source Contribution**
+
+📓 [My WordPress Contribution Journey](https://profiles.wordpress.org/ashokrd2013/)
+
+📫 How to reach me **ashok.r.dhaduk@gmail.com**
 <!--
 **ashokdhaduk/ashokdhaduk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
