@@ -44,5 +44,5 @@ Here are some ideas to get you started:
 ![Macintosh](https://img.shields.io/badge/-Macintosh-999999?logo=Apple&style=for-the-badge&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
-![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)
+![![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)](https://ashokdhaduk.github.io)
 ![PHPStorm](https://img.shields.io/badge/-phptstorm-181717?logo=phpstorm&style=for-the-badge&logoColor=white&color=9051f5)
